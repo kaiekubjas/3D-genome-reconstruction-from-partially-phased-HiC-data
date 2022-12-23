@@ -3,5 +3,6 @@
 ## Reference
 <arxiv number>
 
-## Files and folder description
+## Files description
 
+.m2 has the function SevenEq(nTrails) to test the unique identifiability conjecture
