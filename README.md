@@ -5,4 +5,4 @@
 
 ## Files description
 
-.m2 has the function SevenEq(nTrails) to test the unique identifiability conjecture
+unique_identifiability_conjecture.m2 -> function SevenEq(nTrails) to test the unique identifiability conjecture
