@@ -17,5 +17,5 @@ The repository contains three main parts:
   
 ## Dependencies
 
-The MATLAB function `estimate_disambiguated.m` relies on ChromSDE version 2.2.
+The MATLAB function `estimate_disambiguated.m` relies on [ChromSDE version 2.2](http://glab.hzau.edu.cn/subpages/RESOURCES/softwares.php).
   
