@@ -1,6 +1,5 @@
 # 3D genome reconstruction from partially phased Hi-C data
-This repository contains files for the manuscript "3D genome reconstruction from partially phased Hi-C data".
-<arxiv number>
+This repository contains files for the manuscript [3D genome reconstruction from partially phased Hi-C data](https://arxiv.org/abs/2301.11764) (2301.11764) by Diego Cifuentes, Jan Draisma, Oskar Henriksson, Annachiara Korchmaros, Kaie Kubjas.
 
 ## File descriptions
 
