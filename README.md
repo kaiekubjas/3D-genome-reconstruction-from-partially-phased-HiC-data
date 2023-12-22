@@ -13,7 +13,7 @@ The repository contains three main parts:
   * `SNLC` containing all the MATLAB and Julia functions needed for the reconstruction method discussed in Section 4 of the paper. In particular, this includes the MATLAB function `estimate_disambiguated` (for estimating unambiguous loci), the Julia function `estimate_ambig_htpy` (for estimating ambiguous loci with homotopy continuation), as well as the MATLAB functions `estimate_ambig`  (for refining estimations with local optimization) and unmix_chromosomes (for the clustering step). 
   * `synthetic_analysis`containing files needed for simulating and analyzing synthetic Hi-C data, including a Julia script `synthetic_example.jl` where these functions are used to produce Figures 3 (a)--(c) and S1 in the paper.
   * `patski_analysis` containing files needed for analyzing the patski dataset, including a Jupyter notebook `analysis_of_patski_data.ipynb` where the Figures 5, S2 and S3 are produced.
-  * `norm_figures` that contain the full series of figures of which a sample is shown in Figure~S4.
+  * `norm_figures` that contain the full series of figures of which a sample is shown in Figure S4.
   
 ## Dependencies
 
