@@ -62,4 +62,4 @@ MS = monodromy_solve(F, sol0, param0, group_action=symmetry, target_solutions_co
 C = certify(F,solutions(MS),target_parameters=param0)
 
 # Save the certificates as a text file
-save("certificates.txt",C)
+save("ambiguous_ID_certificates.txt",C)
