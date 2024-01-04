@@ -7,9 +7,9 @@ The repository contains three main parts:
 
 * A Macualay2 script `unique_identifiability_conjecture.m2`, which contains the function SevenEq(nTrails) used test the unique identifiability conjecture (Conjecture 3.4 in the paper).
 
-* A Maple script `ambig_identifiability_proof.mpl`, which does the rank computation referred to in the proof of identifiability in the fully ambiguous setting (Theorem 3.6 in the paper).
+* A Maple script `ambiguous_identifiability_proof.mpl`, which does the rank computation referred to in the proof of identifiability in the fully ambiguous setting (Theorem 3.6 in the paper).
 
-* A Julia script `ambig_identifiability_degree.jl`, which uses monodromy and certification to prove that the identifiability degree is more than 1000 for unphased data in the $\alpha=-2$ case.
+* A Julia script `ambiguous_identifiability_degree.jl`, which uses monodromy and certification to prove that the identifiability degree is more than 1000 for unphased data in the $\alpha=-2$ case.
 
 * A directory `reconstructions`, which contains files needed for the parts of the paper that concern concrete reconstructions (Sections 4 and 5). More specifically, it contains the following subdirectories:
   * `SNLC` containing all the MATLAB and Julia functions needed for the reconstruction method discussed in Section 4 of the paper. In particular, this includes the MATLAB function `estimate_disambiguated` (for estimating unambiguous loci), the Julia function `estimate_ambig_htpy` (for estimating ambiguous loci with homotopy continuation), as well as the MATLAB functions `estimate_ambig`  (for refining estimations with local optimization) and unmix_chromosomes (for the clustering step). 
